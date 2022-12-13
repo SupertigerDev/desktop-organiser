@@ -4,7 +4,6 @@ specifiers:
   '@types/igdb-api-node': ^5.0.0
   cross-env: ^7.0.3
   electron: ^22.0.0
-  i: ^0.3.7
   igdb-api-node: ^5.0.2
   npm: ^9.2.0
   solid-js: ^1.6.5
@@ -15,7 +14,6 @@ specifiers:
   vite-plugin-solid: ^2.5.0
 
 dependencies:
-  i: 0.3.7
   igdb-api-node: 5.0.2
   npm: 9.2.0
   solid-js: 1.6.5
@@ -1165,11 +1163,6 @@ packages:
       quick-lru: 5.1.1
       resolve-alpn: 1.2.1
     dev: true
-
-  /i/0.3.7:
-    resolution: {integrity: sha512-FYz4wlXgkQwIPqhzC5TdNMLSE5+GS1IIDJZY/1ZiEPCT2S3COUVZeT5OW4BmW4r5LHLQuOosSwsvnroG9GR59Q==}
-    engines: {node: '>=0.4'}
-    dev: false
 
   /igdb-api-node/5.0.2:
     resolution: {integrity: sha512-fWT1t7xkkndwDMFX9xeQI6ErN30ujcxsBYNzFREwa98AY9sp4+tEUvzH8A8CxjYp8XX+IarRaR7BlKofaWfXPA==}
